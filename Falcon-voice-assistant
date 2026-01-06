@@ -1,0 +1,6 @@
+Falcon-Voice-Assistant/
+│
+├── falcon_v5.py
+├── README.md
+├── requirements.txt
+└── .gitignore
